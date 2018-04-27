@@ -1,2 +1,3 @@
-# mtr-docker
-Docker image for the mtr traceroute program
+# MTR with Docker
+
+Docker image for the [MTR](https://github.com/traviscross/mtr) traceroute program
